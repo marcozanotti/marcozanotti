@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marco </h1>
-<h3 align="center">A Data Scientist from Italy </h3>
+<h3 align="center">A Data Scientist from 🇮🇹 </h3>
 
-<br />
-   
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=R+and+Python+developer;PhD+in+Statistics;7%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
-<br />
-
 <p align="center">
   <a href="https://twitter.com/mzano17"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   <a href="mailto:zanottimarco17@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  <a href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/dotty/80/domain.png" width="3.5%"/> 
+  <a href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/dotty/80/domain.png" width="3.5%"/>
   <a href="https://www.linkedin.com/in/marco-zanotti-a6a978124/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
   <a href="https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="3.5%"/>
 </p>
@@ -25,13 +21,13 @@
 - 🖥 R and Python developer, passionate about learning and education
 - 💼 Working at [Shibumi Group](https://shibumi.group/agencies/)
 - 🎓 PhD Statistics at the University of Milan-Bicocca
+- 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
 
-Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
-
+<br />
 
 ## ✔️ Skills
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -48,7 +44,7 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -95,7 +91,7 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -118,7 +114,7 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -135,7 +131,7 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -152,37 +148,65 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
   </tr>
 </table>
 
+<br />
 
 ## 👨‍💻 Data Science Libraries
 
 
+<br />
 
+## 👨‍🏫 Teachings
 
-## 👨‍🏫 Teaching
+- [Time Series Forecasting: ML & DL with R and Python](https://marcozanotti.github.io/tsforecasting-course/)
+- [Statistical Learning, Machine Learning & Artificial Intelligence](https://marcozanotti.github.io/statlearning-course/)
+- [Data Visualization with Shiny & Flexdashboard](https://marcozanotti.github.io/rcoding-course/)
+- [R Programming](https://marcozanotti.github.io/rcoding-course/)
+
+<br />
 
 
 ## 🔖 Learning
 
+- Python
+- Shiny
+- FastAPI
+- VS Code
 
+<br />
 
 
 ## 🎲 Hobbies
 
+<img align="right" src="https://github.com/marcozanotti/website/blob/main/static/img/kite4.png" height=250/>
 
+I was a footballer. I played in Italian minor championships until 22.  
 
+I also like curling and footgolf.
+  
+Now I spend my free time reading manga, playing board games, and PlayStation.  
+
+I love listening folk and country music.  
+  
+<br />  
+
+Since 2020, I practice kite surf, an amazing water-board sport,  
+and whenever I can I go kite surfing all around the world.
+
+<br />
 
 
 ## 💻 Dev Stuff  
 
-<!-- 
-![Metrics](https://metrics.lecoq.io/marcozanotti?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FRome)
-<img height="180em" src="https://metrics.lecoq.io/marcozanotti?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FRome" />
--->
+<details>
+  <summary><b>🏆 Github Trophies</b></summary>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=marcozanotti"/>
+</details>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcozanotti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcozanotti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozanotti&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -198,9 +222,12 @@ Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_re
 	</ul>
 </details>
 
+<br />
+
+##
 
 <p align="center">
-  [![GitHub marcozanotti](https://img.shields.io/github/followers/marcozanotti?label=follow&style=social)](https://github.com/marcozanotti)
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-  [![Visits](https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/marcozanotti)
+  <a href="https://github.com/marcozanotti"> <img src="https://img.shields.io/github/followers/marcozanotti?label=follow&style=social" width="10%"/>
+  <a href="https://github.com/ellerbrock/open-source-badge/"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="10%"/>
+  <a href="https://github.com/marcozanotti"> <img src="https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" width="10%"/>
 </p>
