@@ -14,16 +14,15 @@
   <a href="https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="3.5%"/>
 </p>
 
-<br />
-
 ## 📖 About Me
 
 - 🖥 R and Python developer, passionate about learning and education
 - 💼 Working at [Shibumi Group](https://shibumi.group/agencies/)
-- 🎓 PhD Statistics at the University of Milan-Bicocca
+- 🎓 PhD Statistics at [University of Milan-Bicocca](https://en.unimib.it/)
 - 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
 
-<br />
+<details>
+<summary><h2>Wanna know more? 👇</h2></summary>
 
 ## ✔️ Skills
 
@@ -224,10 +223,12 @@ and whenever I can I go kite surfing all around the world.
 
 <br />
 
-##
+
+</details>
 
 <p align="center">
   <a href="https://github.com/marcozanotti"> <img src="https://img.shields.io/github/followers/marcozanotti?label=follow&style=social" width="10%"/>
   <a href="https://github.com/ellerbrock/open-source-badge/"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="10%"/>
   <a href="https://github.com/marcozanotti"> <img src="https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" width="10%"/>
 </p>
+
