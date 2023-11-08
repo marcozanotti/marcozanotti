@@ -9,7 +9,7 @@
 <p align="center">
   <a style="text-decoration:none;" href="https://twitter.com/mzano17"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   <a style="text-decoration:none;" href="mailto:zanottimarco17@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  <a style="text-decoration:none;" href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/dotty/80/domain.png" width="3.5%"/>
+  <a style="text-decoration:none;" href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/external-website-seo-and-marketing-xnimrodx-lineal-gradient-xnimrodx.png" width="3.5%"/>
   <a style="text-decoration:none;" href="https://www.linkedin.com/in/marco-zanotti-a6a978124/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
   <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="3.5%"/>
 </p>
