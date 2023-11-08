@@ -7,11 +7,11 @@
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://twitter.com/mzano17"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/>
-  <a style="text-decoration:none;" href="mailto:zanottimarco17@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
-  <a style="text-decoration:none;" href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/clouds/100/domain.png" width="5%"/>
-  <a style="text-decoration:none;" href="https://www.linkedin.com/in/marco-zanotti-a6a978124/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>
-  <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="5%"/>
+  <a style="text-decoration:none;" href="https://twitter.com/mzano17"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>
+  <a style="text-decoration:none;" href="mailto:zanottimarco17@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/></a>
+  <a style="text-decoration:none;" href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/clouds/100/domain.png" width="5%"/></a>
+  <a style="text-decoration:none;" href="https://www.linkedin.com/in/marco-zanotti-a6a978124/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
+  <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"> <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="5%"/></a>
 </p>
 
 ## 📖 About Me
@@ -232,8 +232,8 @@ and whenever I can I go kite surfing all around the world.
 </details>
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/marcozanotti"> <img src="https://img.shields.io/github/followers/marcozanotti?label=follow&style=social" width="10%"/>
-  <a style="text-decoration:none;" href="https://github.com/ellerbrock/open-source-badge/"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="10%"/>
-  <a style="text-decoration:none;" href="https://github.com/marcozanotti"> <img src="https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" width="10%"/>
+  <a style="text-decoration:none;" href="https://github.com/marcozanotti"> <img src="https://img.shields.io/github/followers/marcozanotti?label=follow&style=social" width="10%"/></a>
+  <a style="text-decoration:none;" href="https://github.com/ellerbrock/open-source-badge/"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="10%"/></a>
+  <a style="text-decoration:none;" href="https://github.com/marcozanotti"> <img src="https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" width="10%"/></a>
 </p>
 
