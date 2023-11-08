@@ -152,8 +152,7 @@
 ## 👨‍💻 Data Science Libraries
 
 <p align="center">
-  <img src="https://github.com/marcozanotti/marcozanotti/blob/main/img/r_hex.png"/>
-  <img src="https://github.com/marcozanotti/marcozanotti/blob/main/img/python_hex.png" height=367/>
+  <img src="https://github.com/marcozanotti/marcozanotti/blob/main/img/hex.png"/>
 </p>
 
 <br />  
