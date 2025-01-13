@@ -17,7 +17,7 @@
 ## 📖 About Me
 
 - 🖥 R and Python developer, passionate about learning and education
-- 💼 Working at [Shibumi Group](https://shibumi.group/agencies/)
+- 💼 Working at [WANAN LUXURY](https://www.wananluxury.com/)
 - 🎓 PhD Statistics at [University of Milan-Bicocca](https://en.unimib.it/)
 - 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
 
@@ -173,7 +173,7 @@
 - Python
 - Shiny
 - FastAPI
-- VS Code
+- ML Ops
 
 <br />
 
@@ -218,10 +218,10 @@ and whenever I can I go kite surfing all around the world.
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Ubuntu 22.04</li>
-	    <li><b>Laptop: </b> Dell</li>
+	    <li><b>Laptop: </b> Dell / Lenovo</li>
   	  <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> RStudio, PyCharm</li>
-	    <li><b>To Stay Updated:</b> Twitter, Medium</li>
+	    <li><b>Code Editor:</b> Positron, VS Code, RStudio</li>
+	    <li><b>To Stay Updated:</b> Medium, LinkedIn</li>
 	</ul>
 </details>
 
@@ -235,4 +235,3 @@ and whenever I can I go kite surfing all around the world.
   <a style="text-decoration:none;" href="https://github.com/ellerbrock/open-source-badge/"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="10%"/></a>
   <a style="text-decoration:none;" href="https://github.com/marcozanotti"> <img src="https://komarev.com/ghpvc/?username=marcozanotti&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" width="10%"/></a>
 </p>
-
