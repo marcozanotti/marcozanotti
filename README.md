@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scientist from 🇮🇹 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=R+and+Python+developer;Specialized+in+Time+Series+Forecasting;Ph.D.+in+Statistics;9%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=R+and+Python+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;9%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
@@ -17,19 +17,13 @@
 ## 📖 About Me
 
 I am a machine learning engineer and data scientist with broad knowledge in time series analysis, forecasting, anomaly detection, and econometrics.  
-
 I specialized in developing and enhancing business forecasting processes and practices.  
-
 Over the years I developed and contributed to core forecasting systems in sectors like e-commerce fashion, airline, tourism, and travel. I also guided and mentored junior colleagues in developing predictive models that enable accurate forecasting.  
-
 I am passionate about advancing the field of forecasting and fostering collaboration between academia and industry. I do academic work in time series forecasting, and I am a Member of the International Institute of Forecasters.  
-
 I also hold multiple certifications related to the analysis and forecasting of time series data.  
-
 Recently I have enjoyed teaching professionals and students about time series analysis, machine learning, programming, and statistics.  
 
 
-- 🖥 I am a machine learning engineer and data scientist with broad knowledge in time series analysis, forecasting, anomaly detection, and econometrics.
 - 💼 Working at [WANAN LUXURY](https://www.wananluxury.com/)
 - 🎓 Ph.D. Statistics at [University of Milan-Bicocca](https://en.unimib.it/)
 - 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
