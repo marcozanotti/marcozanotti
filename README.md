@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marco </h1>
-<h3 align="center">A Data Scientist from 🇮🇹 </h3>
+<h3 align="center">A Forecasting & Machine Learning Engineer from 🇮🇹 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=R+and+Python+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;9%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=Python+&+R+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;10%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://twitter.com/mzano17"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>
   <a style="text-decoration:none;" href="mailto:zanottimarco17@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/></a>
   <a style="text-decoration:none;" href="https://marcozanotti.netlify.app/"> <img src="https://img.icons8.com/clouds/100/domain.png" width="5%"/></a>
   <a style="text-decoration:none;" href="https://www.linkedin.com/in/marco-zanotti-a6a978124/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
@@ -183,7 +182,7 @@ Recently I have enjoyed teaching professionals and students about time series an
 ## 🔖 Learning
 
 - FastAPI
-- Streamlite
+- Streamlit
 - ML Ops
 
 <br />
