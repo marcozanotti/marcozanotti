@@ -2,7 +2,7 @@
 <h3 align="center">A Forecasting & Machine Learning Engineer from 🇮🇹 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=Python+\&+R+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;10%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=Python+and+R+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;10%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
