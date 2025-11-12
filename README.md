@@ -17,16 +17,16 @@
 ## 📖 About Me
 
 I am a machine learning engineer and data scientist with broad knowledge in time series analysis, forecasting, anomaly detection, and econometrics.  
-I specialized in developing and enhancing business forecasting processes and practices.  
+I specialized in developing and enhancing business **forecasting processes and practices**.  
 Over the years I developed and contributed to core forecasting systems in sectors like e-commerce fashion, airline, tourism, and travel. I also guided and mentored junior colleagues in developing predictive models that enable accurate forecasting.  
-I am passionate about advancing the field of forecasting and fostering collaboration between academia and industry. I do academic work in time series forecasting, and I am a Member of the International Institute of Forecasters.  
+I am passionate about advancing the field of forecasting and fostering collaboration between academia and industry. I do academic work in time series forecasting, and I am a **Member of the International Institute of Forecasters**.  
 I also hold multiple certifications related to the analysis and forecasting of time series data.  
 Recently I have enjoyed teaching professionals and students about time series analysis, machine learning, programming, and statistics.  
 
 
 - 💼 Working at [WANAN LUXURY](https://www.wananluxury.com/)
 - 🎓 Ph.D. Statistics at [University of Milan-Bicocca](https://en.unimib.it/)
-- 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
+- 📑 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) and my [Website](https://marcozanotti.netlify.app/) for more info.
 
 <details>
 <summary><h2>Wanna know more? 👇</h2></summary>
@@ -159,6 +159,10 @@ Recently I have enjoyed teaching professionals and students about time series an
 ## 👨‍💻 Data Science Libraries
 
 <p align="center">
+  <img src="https://github.com/marcozanotti/marcozanotti/blob/main/img/hex_py.png"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/marcozanotti/marcozanotti/blob/main/img/hex.png"/>
 </p>
 
@@ -167,7 +171,8 @@ Recently I have enjoyed teaching professionals and students about time series an
 
 ## 👨‍🏫 Teachings
 
-- [Time Series Forecasting: ML & DL with R and Python](https://marcozanotti.github.io/tsforecasting-course/)
+- [Modern Time Series Forecasting with Python](https://marcozanotti.github.io/modern-tsf-py/)
+- [Modern Time Series Forecasting with R](https://marcozanotti.github.io/modern-tsf-r/)
 - [Statistical Learning, Machine Learning & Artificial Intelligence](https://marcozanotti.github.io/statlearning-course/)
 - [Data Visualization with Shiny & Flexdashboard](https://marcozanotti.github.io/rcoding-course/)
 - [R Programming](https://marcozanotti.github.io/rcoding-course/)
@@ -178,6 +183,7 @@ Recently I have enjoyed teaching professionals and students about time series an
 ## 🔖 Learning
 
 - FastAPI
+- Streamlite
 - ML Ops
 
 <br />
@@ -190,15 +196,15 @@ Recently I have enjoyed teaching professionals and students about time series an
 I was a footballer. I played in Italian minor championships until 22.  
 
 I also like curling and footgolf.
-  
-Now I spend my free time reading manga, playing board games, and PlayStation.  
-
-I love listening folk and country music.  
-  
-<br />  
 
 Since 2020, I practice kite surf, an amazing water-board sport,  
 and whenever I can I go kite surfing all around the world.
+  
+<br />  
+
+Now I spend my free time with my little dog Milo, or reading manga, playing board games and PlayStation.  
+
+I love listening to folk and country music.  
 
 <br />
 
@@ -214,7 +220,7 @@ and whenever I can I go kite surfing all around the world.
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcozanotti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcozanotti"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozanotti&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -225,7 +231,7 @@ and whenever I can I go kite surfing all around the world.
   	  <li><b>OS:</b> Ubuntu 22.04</li>
 	    <li><b>Laptop: </b> Dell / Lenovo</li>
   	  <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> Positron, VS Code, RStudio</li>
+	    <li><b>Code Editor:</b> VS Code, Positron, RStudio</li>
 	    <li><b>To Stay Updated:</b> Medium, LinkedIn</li>
 	</ul>
 </details>
