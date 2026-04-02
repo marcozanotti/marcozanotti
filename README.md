@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco </h1>
-<h3 align="center">A Forecasting & Machine Learning Engineer from 🇮🇹 </h3>
+<h3 align="center">A Data Scientist specialized in Forecasting from 🇮🇹 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=50&duration=2500&pause=500&color=0BE40C&center=true&vCenter=true&random=false&width=800&height=80&lines=Python+and+R+developer;Specialized+in+Forecasting;Ph.D.+in+Statistics;10%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -15,7 +15,7 @@
 
 ## 📖 About Me
 
-I am a machine learning engineer and data scientist with broad knowledge in time series analysis, forecasting, anomaly detection, and econometrics.  
+I am a data scientist with broad knowledge in time series analysis, forecasting, anomaly detection, and econometrics.  
 I specialized in developing and enhancing business **forecasting processes and practices**.  
 Over the years I developed and contributed to core forecasting systems in sectors like e-commerce fashion, airline, tourism, and travel. I also guided and mentored junior colleagues in developing predictive models that enable accurate forecasting.  
 I am passionate about advancing the field of forecasting and fostering collaboration between academia and industry. I do academic work in time series forecasting, and I am a **Member of the International Institute of Forecasters**.  
